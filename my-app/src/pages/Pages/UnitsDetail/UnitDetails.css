@@ -1,0 +1,3 @@
+.borderless .dark td, .borderless .dark th {
+    border: none;
+}
